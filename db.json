@@ -4,7 +4,7 @@
       "id": 1,
       "titel": "رزرواسیون 24 ساعته",
       "titels": "خدمات آنلاین در تمام روزهای هفته",
-      "imgs": "../vite-project/public/img/imgs/logo1.svg"
+      "imgs": "/img/imgs/logo1.svg"
     },
     {
       "id": 2,
